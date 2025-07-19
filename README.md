@@ -102,7 +102,7 @@ Answer: **RunWallpaperSetup.cmd**
 
 I opened the Known Networks csv file and found the timestamp 
 
-![img 4(https://github.com/ankrahjoseph/TryHackme-KAPE/blob/main/KAPE/img%204.png)
+![img 4](https://github.com/ankrahjoseph/TryHackme-KAPE/blob/main/KAPE/img%204.png)
 
 Answer: **11/30/2021 15:44**
 
