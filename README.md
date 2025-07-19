@@ -84,7 +84,7 @@ In the same Directory, I looked for the RecentApps registry entry and found the 
 
 ![img 3](https://github.com/ankrahjoseph/TryHackme-KAPE/blob/main/KAPE/img%203.png)
 
-Answer: Z:\Setups
+Answer: **Z:\Setups**
 
 **Q.** What is the execution date and time of CHROMESETUP.EXE in MM/DD/YYYY HH:MM?
 
